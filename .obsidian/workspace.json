@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "288c2fb7c2e7a07b",
+    "type": "split",
+    "children": [
+      {
+        "id": "719452ece74a5b42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d6e56a22df44a2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Part 2 - Data Warehousing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Part 2 - Data Warehousing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8664cf9300ad119e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5ee168477118769",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67f87479156371d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "47fe407a87f7caf8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b2058c9f16ef00c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8efce21ccd2f6b76",
+    "type": "split",
+    "children": [
+      {
+        "id": "86c88ca9ee820fe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72114eed8e888355",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Part 2 - Data Warehousing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Part 2 - Data Warehousing"
+            }
+          },
+          {
+            "id": "a244e67ae14b1437",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Part 2 - Data Warehousing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Part 2 - Data Warehousing"
+            }
+          },
+          {
+            "id": "7caa62e17bc60ce0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eafed4d286788d47",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c563847d109b5fad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Part 2 - Data Warehousing.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Part 2 - Data Warehousing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2d6e56a22df44a2f",
+  "lastOpenFiles": [
+    "Part 3 - NoSQL.md",
+    "Part 2 - Data Warehousing.md",
+    "Imgs/Pasted image 20260105225623.png",
+    "Imgs/Pasted image 20260105225319.png",
+    "Imgs/Pasted image 20260105222816.png",
+    "Imgs/Pasted image 20260105221459.png",
+    "Imgs/Pasted image 20260105215234.png",
+    "Imgs/Pasted image 20260105214540.png",
+    "Imgs/Pasted image 20260105211859.png",
+    "Imgs/Pasted image 20260105211311.png",
+    "Imgs/Pasted image 20260105205127.png",
+    "Imgs/Pasted image 20260105204413.png",
+    "New Text Document.txt",
+    "README.txt",
+    "README.md",
+    "Part 1 - In-Memory Database.md",
+    "Imgs",
+    "New folder",
+    "Introduction To Advanced Databases.md"
+  ]
+}

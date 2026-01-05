@@ -389,7 +389,7 @@
 
 ## Stacked Dimension
 
-- A **Stacked Dimension** is a single dimension that combines **multiple small dimensions**   because their attributes **belong to the FACT**, not to a real business entity
+- A **Stacked Dimension** is a single dimension that combines **multiple small dimensions** because their attributes **belong to the FACT**, not to a real business entity
 - It is used when you have several **type** or **status** fields like: Product Type, Customer Status, Store Type, etc.
 - Why do we need it?
      - You’ll end up with **many useless tiny dimensions** (ProductTypeDim, CustomerStatusDim, PaymentTypeDim, StoreTypeDim…)
